@@ -1,0 +1,28 @@
+:root{
+    --brand: #52606B;
+    --ccor1: #0080A8;
+
+}
+
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+
+.bg{
+    background-color: var(--brand);
+    width: 471px;
+    height: 768px;
+}
+
+.hero-section{
+    display: flex;
+}
+
+.bg-model{
+    background-image: url(img/convite-intranet-sem-fundo.png);
+}
